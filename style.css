@@ -1,0 +1,100 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;    
+    margin: 0px;
+}
+
+.Sub-title, .Title {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+p.quote {
+    margin: 0;
+}
+h1.Name {
+    margin: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: none;
+    font-size: 48px;
+    padding-top: 50px;
+}
+h2.Software {
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: none;
+}
+div.Header {
+    background-color: #263238;
+    color: white;
+    height: 350px;
+    padding-left: 20px;
+}
+p.Title {
+    margin: 0;
+    font-size: 2em;
+    color: white;
+    padding-top: 50px;
+}
+div.Academy {
+    background-color: #1565C0;
+    margin: auto;
+    color: white;
+
+}
+p.ew {
+    margin: 0;
+    padding-bottom: 50px;
+    margin-top: 20px;
+}
+div.Work {
+    background-color: #42A5F5;
+    color: white;
+}
+p.date {
+    background-color: #607D8B;
+    width: 230px;
+    border-radius: 4px;
+    text-align: center;
+    height: 20px;
+    padding-top: 7px;
+    margin: 0px;
+}
+ul {
+    margin: 0;
+    padding-left: 60px;
+}
+li {
+    font-weight: bold;
+    width: 180px;
+    margin-top: 20px;
+    
+}
+p.Lorem {
+    margin: 0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.Sub-title{
+    text-transform: uppercase;
+    display: inline;
+}
+.Sub-title2 {
+    text-transform: uppercase;
+    width: 500px;
+    display: inline;
+}
+p.date1 {
+    width: 170px;
+    background-color: #607D8B;
+    border-radius: 4px;
+    text-align: center;
+    height: 20px;
+    padding-top: 7px;
+    margin: 0px;
+}
+.Title {
+    padding-left: 20px;
+}
+p.location {
+    margin: 0;
+    display: inline;
+}
